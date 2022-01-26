@@ -1,2 +1,2 @@
-def ():
-  #Денис
+def input_f():
+  pass
